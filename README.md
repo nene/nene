@@ -21,4 +21,4 @@ Feel free to send me an e-mail me if you have a project that's at least as hard 
 [lebab]: https://github.com/lebab/lebab
 [jsduck]: https://github.com/senchalabs/jsduck
 [sql parser cst]: https://github.com/nene/sql-parser-cst
-[blog]: http://nene.github.io/kirjutised/
+[blog]: http://nene.github.io/
