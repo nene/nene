@@ -14,9 +14,6 @@ I guess that's my passion.
 🚲 My other passion is riding stupid-long distances on a road bike.
 I guess that's also a theme - I like doing hard stuff.
 
-🔭 It happens that I'm also looking for a job.
-Feel free to send me an e-mail me if you have a project that's at least as hard as writing an SQL parser.
-
 [sql formatter]: https://github.com/sql-formatter-org/sql-formatter
 [lebab]: https://github.com/lebab/lebab
 [jsduck]: https://github.com/senchalabs/jsduck
